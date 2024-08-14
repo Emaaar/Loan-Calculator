@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\MidtermProj\MidtermProj\MidtermProj\bin\Debug\netstandard2.0\MidtermProj.deps.json
+C:\Users\user\source\repos\MidtermProj\MidtermProj\MidtermProj\bin\Debug\netstandard2.0\MidtermProj.dll
+C:\Users\user\source\repos\MidtermProj\MidtermProj\MidtermProj\bin\Debug\netstandard2.0\ref\MidtermProj.dll
+C:\Users\user\source\repos\MidtermProj\MidtermProj\MidtermProj\bin\Debug\netstandard2.0\MidtermProj.pdb
+C:\Users\user\source\repos\MidtermProj\MidtermProj\MidtermProj\obj\Debug\netstandard2.0\MidtermProj.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MidtermProj\MidtermProj\MidtermProj\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\MidtermProj\MidtermProj\MidtermProj\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\MidtermProj\MidtermProj\MidtermProj\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\user\source\repos\MidtermProj\MidtermProj\MidtermProj\obj\Debug\netstandard2.0\MidtermProj.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MidtermProj\MidtermProj\MidtermProj\obj\Debug\netstandard2.0\MidtermProj.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MidtermProj\MidtermProj\MidtermProj\obj\Debug\netstandard2.0\MidtermProj.AssemblyInfo.cs
+C:\Users\user\source\repos\MidtermProj\MidtermProj\MidtermProj\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\MidtermProj\MidtermProj\MidtermProj\obj\Debug\netstandard2.0\MidtermProj.dll
+C:\Users\user\source\repos\MidtermProj\MidtermProj\MidtermProj\obj\Debug\netstandard2.0\ref\MidtermProj.dll
+C:\Users\user\source\repos\MidtermProj\MidtermProj\MidtermProj\obj\Debug\netstandard2.0\MidtermProj.pdb

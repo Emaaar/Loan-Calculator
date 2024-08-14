@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MidtermProj"
+             x:Class="MidtermProj.ResultPage">
+
+    <Frame BorderColor="Red" CornerRadius="10" Padding="20" Margin="20">
+        <StackLayout Spacing="10">
+            <Label Text="Name of Applicant:" FontAttributes="Bold"  />
+            <Label x:Name="lblName" />
+
+            <Label Text="Date of Application:" FontAttributes="Bold" />
+            <Label x:Name="lblDate" />
+
+            <Label Text="Loan Type:" FontAttributes="Bold" />
+            <Label x:Name="lblLoanType" />
+
+            <Label Text="Principal Amount:" FontAttributes="Bold" />
+            <Label x:Name="lblPrincipalAmount" />
+
+            <Label Text="Terms (in months):" FontAttributes="Bold" />
+            <Label x:Name="lblTerms" />
+            <Label Text="Balance:" FontAttributes="Bold" />
+            <Label x:Name="lblBalance" />
+
+            <Label Text="Service Fee:" FontAttributes="Bold" />
+            <Label x:Name="lblServiceFee" />
+
+            <Label Text="Filling Fee:" FontAttributes="Bold" />
+            <Label x:Name="lblFillingFee" />
+
+            <Label Text="Insurance Fee:" FontAttributes="Bold" />
+            <Label x:Name="lblInsuranceFee" />
+
+            <Label Text="Saving Retention:" FontAttributes="Bold" />
+            <Label x:Name="lblSavingRetention" />
+
+            <Label Text="Monthly Amortization:" FontAttributes="Bold" />
+            <Label x:Name="lblMonthlyAmortization" />
+
+            
+
+            <Label Text="Net Loan Proceeds:" FontAttributes="Bold" />
+            <Label x:Name="lblNetLoanProceeds" />
+
+           
+        </StackLayout>
+    </Frame>
+
+</ContentPage>

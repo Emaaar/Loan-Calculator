@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MidtermProj"
+             x:Class="MidtermProj.MainPage">
+
+    <Frame BorderColor="Red" CornerRadius="10" Padding="10" Margin="20">
+        <StackLayout Spacing="10">
+            <Entry x:Name="txtName" Placeholder="Name of Applicant" />
+            <Entry x:Name="txtDate" Placeholder="Date of Application (mm/dd/yyyy)" />
+            <Picker x:Name="pickerLoanType" Title="Loan Type">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Console</x:String>
+                        <x:String>Emergency</x:String>
+                        <x:String>Regular 1</x:String>
+                        <x:String>Regular 2</x:String>
+                        <x:String>Regular 3</x:String>
+                        <x:String>Calamity</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <Entry x:Name="txtPrincipalAmount" Placeholder="Principal Amount" Keyboard="Numeric" />
+            <Picker x:Name="pickerTerms" Title="Terms (in months)">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>12</x:String>
+                        <x:String>18</x:String>
+                        <x:String>24</x:String>
+                        <x:String>30</x:String>
+                        <x:String>36</x:String>
+                        <x:String>42</x:String>
+                        <x:String>48</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <Entry x:Name="txtBalance" Placeholder="Balance" Keyboard="Numeric" />
+            <Button Text="Calculate" Clicked="Calculate_Clicked" />
+        </StackLayout>
+    </Frame>
+
+</ContentPage>
